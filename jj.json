@@ -1,6 +1,7 @@
-name: "Sasha"
-age: 24
-pets: null
+{
+"name": "Sasha",
+"age": 24
+"pets": null
 f_salary: null
-
+}
 
